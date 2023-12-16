@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @azizdev28
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m Azizbek
+   I’m Junior Front End devoloper
+   I’m currently learning I am currently learning js at a more advanced level and react at a beginner level
+    I'm looking to collaborate on projects with programmers with their knowledge
+- 📫 How to reach me az1z.bakht1yarvich@gmail.com
 
-<!---
-azizdev28/azizdev28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
